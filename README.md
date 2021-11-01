@@ -1,5 +1,4 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=anwarulislam&show_icons=true"/>](https://github.com/anwarulislam)
-[<img align="right" width="400" src="https://api.daily.dev/devcards/ba00d15820f04bd4bd74d2977a688053.png?r=dli"/>]
 
 # Anwarul Islam
 
@@ -21,3 +20,5 @@
    "frontend":["Angular", "VueJS", "ReactJS"]
 }
 ```
+
+[<img align="right" width="400" src="https://api.daily.dev/devcards/ba00d15820f04bd4bd74d2977a688053.png?r=dli"/>]
