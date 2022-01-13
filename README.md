@@ -21,4 +21,4 @@
 }
 ```
 
-<img align="center" width="400" src="https://api.daily.dev/devcards/ba00d15820f04bd4bd74d2977a688053.png?r=dli"/>
+<img align="middle" width="400" src="https://api.daily.dev/devcards/ba00d15820f04bd4bd74d2977a688053.png?r=dli"/>
