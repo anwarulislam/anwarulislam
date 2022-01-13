@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=anwarulislam&show_icons=true"/>](https://github.com/anwarulislam)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=anwarulislam&show_icons=true&theme=radical&locale=en" alt="Anwarul islam"/>](https://github.com/anwarulislam)
 
 # Anwarul Islam
 
